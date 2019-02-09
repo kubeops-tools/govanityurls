@@ -1,6 +1,9 @@
 host: kmodules.xyz
 
 paths:
+  /client-go:
+    repo: https://github.com/kmodules/client-go
+
   /custom-resources:
     repo: https://github.com/kmodules/custom-resources
 
@@ -18,3 +21,6 @@ paths:
 
   /security-policy-api:
     repo: https://github.com/kmodules/security-policy-api
+
+  /webhook-runtime:
+    repo: https://github.com/kmodules/webhook-runtime
