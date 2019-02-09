@@ -1,8 +1,20 @@
-host: rakyll.pizza
+host: kmodules.xyz
 
 paths:
-  /portmidi:
-    repo: https://github.com/rakyll/portmidi
+  /custom-resources:
+    repo: https://github.com/kmodules/custom-resources
 
-  /launchpad:
-    repo: https://github.com/rakyll/launchpad
+  /monitoring-agent-api:
+    repo: https://github.com/kmodules/monitoring-agent-api
+
+  /objectstore-api:
+    repo: https://github.com/kmodules/objectstore-api
+
+  /offshoot-api:
+    repo: https://github.com/kmodules/offshoot-api
+
+  /openshift:
+    repo: https://github.com/kmodules/openshift
+
+  /security-policy-api:
+    repo: https://github.com/kmodules/security-policy-api
