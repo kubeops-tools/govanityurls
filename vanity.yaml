@@ -19,6 +19,9 @@ paths:
   /openshift:
     repo: https://github.com/kmodules/openshift
 
+  /resource-metadata:
+    repo: https://github.com/kmodules/resource-metadata
+
   /security-policy-api:
     repo: https://github.com/kmodules/security-policy-api
 
