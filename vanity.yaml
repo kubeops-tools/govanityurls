@@ -7,6 +7,9 @@ paths:
   /custom-resources:
     repo: https://github.com/kmodules/custom-resources
 
+  /jsonpath:
+    repo: https://github.com/kmodules/jsonpath
+
   /monitoring-agent-api:
     repo: https://github.com/kmodules/monitoring-agent-api
 
