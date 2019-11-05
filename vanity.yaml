@@ -4,6 +4,9 @@ paths:
   /client-go:
     repo: https://github.com/kmodules/client-go
 
+  /constants:
+    repo: https://github.com/kmodules/constants
+
   /custom-resources:
     repo: https://github.com/kmodules/custom-resources
 
@@ -21,6 +24,9 @@ paths:
 
   /openshift:
     repo: https://github.com/kmodules/openshift
+
+  /prober:
+    repo: https://github.com/kmodules/prober
 
   /resource-metadata:
     repo: https://github.com/kmodules/resource-metadata
