@@ -237,10 +237,10 @@ func TestPathConfigSetFind(t *testing.T) {
 			want:  "/y",
 		},
 		{
-			paths: []string{"/example/helloworld", "/", "/y", "/foo"},
-			query: "/x/y/",
-			want:  "/",
-			subpath:  "x/y/",
+			paths:   []string{"/example/helloworld", "/", "/y", "/foo"},
+			query:   "/x/y/",
+			want:    "/",
+			subpath: "x/y/",
 		},
 		{
 			paths: []string{"/example/helloworld", "/y", "/foo"},
