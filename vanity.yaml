@@ -4,6 +4,9 @@ paths:
   /client-go:
     repo: https://github.com/kmodules/client-go
 
+  /cert-manager-util:
+    repo: https://github.com/kmodules/cert-manager-util
+
   /constants:
     repo: https://github.com/kmodules/constants
 
