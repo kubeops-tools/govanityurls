@@ -19,6 +19,9 @@ paths:
   /jsonpath:
     repo: https://github.com/kmodules/jsonpath
 
+  /lib-chart:
+    repo: https://github.com/kmodules/lib-chart
+
   /monitoring-agent-api:
     repo: https://github.com/kmodules/monitoring-agent-api
 
