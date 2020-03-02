@@ -16,8 +16,14 @@ paths:
   /custom-resources:
     repo: https://github.com/kmodules/custom-resources
 
+  /jsonpatch-gen:
+    repo: https://github.com/kmodules/jsonpatch-gen
+
   /jsonpath:
     repo: https://github.com/kmodules/jsonpath
+
+  /kustomizer:
+    repo: https://github.com/kmodules/kustomizer
 
   /monitoring-agent-api:
     repo: https://github.com/kmodules/monitoring-agent-api
