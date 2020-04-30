@@ -7,6 +7,9 @@ paths:
   /cert-manager-util:
     repo: https://github.com/kmodules/cert-manager-util
 
+  /chart-doc-gen:
+    repo: https://github.com/kmodules/chart-doc-gen
+
   /constants:
     repo: https://github.com/kmodules/constants
 
