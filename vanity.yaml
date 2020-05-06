@@ -10,6 +10,10 @@ paths:
   /chart-doc-gen:
     repo: https://github.com/kmodules/chart-doc-gen
 
+  # private module
+  /cluster-connector:
+    repo: https://github.com/kmodules/cluster-connector
+
   /constants:
     repo: https://github.com/kmodules/constants
 
@@ -48,6 +52,10 @@ paths:
 
   /security-policy-api:
     repo: https://github.com/kmodules/security-policy-api
+
+  # private module
+  /virtual-kubernetes:
+    repo: https://github.com/kmodules/virtual-kubernetes
 
   /webhook-runtime:
     repo: https://github.com/kmodules/webhook-runtime
