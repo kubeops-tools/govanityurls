@@ -1,6 +1,9 @@
 host: kmodules.xyz
 
 paths:
+  /apiversion:
+    repo: https://github.com/kmodules/apiversion
+
   /client-go:
     repo: https://github.com/kmodules/client-go
 
