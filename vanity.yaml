@@ -56,6 +56,9 @@ paths:
   /security-policy-api:
     repo: https://github.com/kmodules/security-policy-api
 
+  /shared-informer:
+    repo: https://github.com/kmodules/shared-informer
+
   # private module
   /virtual-kubernetes:
     repo: https://github.com/kmodules/virtual-kubernetes
