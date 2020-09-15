@@ -35,6 +35,9 @@ paths:
   /kustomizer:
     repo: https://github.com/kmodules/kustomizer
 
+  /leaderelection:
+    repo: https://github.com/kmodules/leaderelection
+
   /monitoring-agent-api:
     repo: https://github.com/kmodules/monitoring-agent-api
 
