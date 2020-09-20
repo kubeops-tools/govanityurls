@@ -50,9 +50,6 @@ paths:
   /openshift:
     repo: https://github.com/kmodules/openshift
 
-  /podautoscaler:
-    repo: https://github.com/kmodules/podautoscaler
-
   /prober:
     repo: https://github.com/kmodules/prober
 
