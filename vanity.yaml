@@ -59,6 +59,9 @@ paths:
   /security-policy-api:
     repo: https://github.com/kmodules/security-policy-api
 
+  /schema-checker:
+    repo: https://github.com/kmodules/schema-checker
+
   /shared-informer:
     repo: https://github.com/kmodules/shared-informer
 
