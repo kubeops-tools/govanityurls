@@ -26,6 +26,9 @@ paths:
   /custom-resources:
     repo: https://github.com/kmodules/custom-resources
 
+  /installer:
+    repo: https://github.com/kmodules/installer
+
   /jsonpatch-gen:
     repo: https://github.com/kmodules/jsonpatch-gen
 
