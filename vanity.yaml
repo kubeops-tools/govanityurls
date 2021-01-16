@@ -7,6 +7,9 @@ paths:
   /application-util:
     repo: https://github.com/kmodules/application-util
 
+  /apply:
+    repo: https://github.com/kmodules/apply
+
   /client-go:
     repo: https://github.com/kmodules/client-go
 
