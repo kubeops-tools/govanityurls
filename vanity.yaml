@@ -4,6 +4,9 @@ paths:
   /apiversion:
     repo: https://github.com/kmodules/apiversion
 
+  /application-util:
+    repo: https://github.com/kmodules/application-util
+
   /client-go:
     repo: https://github.com/kmodules/client-go
 
