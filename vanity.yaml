@@ -68,6 +68,9 @@ paths:
   /resource-metadata:
     repo: https://github.com/kmodules/resource-metadata
 
+  /resource-validator:
+    repo: https://github.com/kmodules/resource-validator
+
   /security-policy-api:
     repo: https://github.com/kmodules/security-policy-api
 
