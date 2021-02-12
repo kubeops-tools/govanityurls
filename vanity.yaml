@@ -32,6 +32,9 @@ paths:
   /crd-schema-fuzz:
     repo: https://github.com/kmodules/crd-schema-fuzz
 
+  /crd-tools:
+    repo: https://github.com/kmodules/crd-tools
+
   /custom-resources:
     repo: https://github.com/kmodules/custom-resources
 
