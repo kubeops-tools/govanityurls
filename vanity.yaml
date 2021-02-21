@@ -10,6 +10,9 @@ paths:
   /apply:
     repo: https://github.com/kmodules/apply
 
+  /auditor:
+    repo: https://github.com/kmodules/auditor
+
   /client-go:
     repo: https://github.com/kmodules/client-go
 
