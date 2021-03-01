@@ -13,6 +13,9 @@ paths:
   /auditor:
     repo: https://github.com/kmodules/auditor
 
+  /catalog-checker:
+    repo: https://github.com/kmodules/catalog-checker
+
   /client-go:
     repo: https://github.com/kmodules/client-go
 
