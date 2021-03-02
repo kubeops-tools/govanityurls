@@ -22,9 +22,6 @@ paths:
   /cert-manager-util:
     repo: https://github.com/kmodules/cert-manager-util
 
-  /chart-doc-gen:
-    repo: https://github.com/kmodules/chart-doc-gen
-
   /codespan-schema-checker:
     repo: https://github.com/kmodules/codespan-schema-checker
 
