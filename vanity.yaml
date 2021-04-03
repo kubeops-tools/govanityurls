@@ -90,5 +90,8 @@ paths:
   /virtual-kubernetes:
     repo: https://github.com/kmodules/virtual-kubernetes
 
+  /uibuilder-schema-checker:
+    repo: https://github.com/kmodules/uibuilder-schema-checker
+
   /webhook-runtime:
     repo: https://github.com/kmodules/webhook-runtime
