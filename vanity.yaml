@@ -41,6 +41,9 @@ paths:
   /custom-resources:
     repo: https://github.com/kmodules/custom-resources
 
+  /hostalias-generator:
+    repo: https://github.com/kmodules/hostalias-generator
+
   /installer:
     repo: https://github.com/kmodules/installer
 
