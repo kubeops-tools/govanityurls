@@ -77,6 +77,9 @@ paths:
   /resource-metadata:
     repo: https://github.com/kmodules/resource-metadata
 
+  /resource-state-metrics-exporter:
+    repo: https://github.com/kmodules/resource-state-metrics-exporter
+
   /resource-validator:
     repo: https://github.com/kmodules/resource-validator
 
