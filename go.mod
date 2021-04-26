@@ -1,4 +1,4 @@
-module kmodules.xyz/govanityurls
+module kubeops.dev/govanityurls
 
 go 1.12
 

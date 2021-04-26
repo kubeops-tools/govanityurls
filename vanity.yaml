@@ -1,103 +1,17 @@
-host: kmodules.xyz
+host: kubeops.dev
 
 paths:
-  /apiversion:
-    repo: https://github.com/kmodules/apiversion
-
-  /application-util:
-    repo: https://github.com/kmodules/application-util
-
-  /apply:
-    repo: https://github.com/kmodules/apply
-
   /auditor:
-    repo: https://github.com/kmodules/auditor
+    repo: https://github.com/kubeops-tools/auditor
 
-  /catalog-checker:
-    repo: https://github.com/kmodules/catalog-checker
+  /auditor-installer:
+    repo: https://github.com/kubeops-tools/auditor-installer
 
-  /client-go:
-    repo: https://github.com/kmodules/client-go
+  /kubed:
+    repo: https://github.com/kubeops-tools/kubed
 
-  /cert-manager-util:
-    repo: https://github.com/kmodules/cert-manager-util
+  /panopticon:
+    repo: https://github.com/kubeops-tools/panopticon
 
-  /codespan-schema-checker:
-    repo: https://github.com/kmodules/codespan-schema-checker
-
-  # private module
-  /cluster-connector:
-    repo: https://github.com/kmodules/cluster-connector
-
-  /constants:
-    repo: https://github.com/kmodules/constants
-
-  /crd-importer:
-    repo: https://github.com/kmodules/crd-importer
-
-  /crd-schema-fuzz:
-    repo: https://github.com/kmodules/crd-schema-fuzz
-
-  /custom-resources:
-    repo: https://github.com/kmodules/custom-resources
-
-  /hostalias-generator:
-    repo: https://github.com/kmodules/hostalias-generator
-
-  /installer:
-    repo: https://github.com/kmodules/installer
-
-  /jsonpatch-gen:
-    repo: https://github.com/kmodules/jsonpatch-gen
-
-  /jsonpath:
-    repo: https://github.com/kmodules/jsonpath
-
-  /kustomizer:
-    repo: https://github.com/kmodules/kustomizer
-
-  /leaderelection:
-    repo: https://github.com/kmodules/leaderelection
-
-  /monitoring-agent-api:
-    repo: https://github.com/kmodules/monitoring-agent-api
-
-  /objectstore-api:
-    repo: https://github.com/kmodules/objectstore-api
-
-  /offshoot-api:
-    repo: https://github.com/kmodules/offshoot-api
-
-  /openshift:
-    repo: https://github.com/kmodules/openshift
-
-  /prober:
-    repo: https://github.com/kmodules/prober
-
-  /resource-metadata:
-    repo: https://github.com/kmodules/resource-metadata
-
-  /resource-state-metrics-exporter:
-    repo: https://github.com/kmodules/resource-state-metrics-exporter
-
-  /resource-validator:
-    repo: https://github.com/kmodules/resource-validator
-
-  /security-policy-api:
-    repo: https://github.com/kmodules/security-policy-api
-
-  /schema-checker:
-    repo: https://github.com/kmodules/schema-checker
-
-  /shared-informer:
-    repo: https://github.com/kmodules/shared-informer
-
-  # private module
-  /virtual-kubernetes:
-    repo: https://github.com/kmodules/virtual-kubernetes
-
-  /uibuilder-schema-checker:
-    repo: https://github.com/kmodules/uibuilder-schema-checker
-
-  /webhook-runtime:
-    repo: https://github.com/kmodules/webhook-runtime
+  /panopticon-installer:
+    repo: https://github.com/kubeops-tools/panopticon-installer
